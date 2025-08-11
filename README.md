@@ -1,5 +1,7 @@
 # Star Wars Survey
-Have you ever wondered which is the **best Star Wars movie?** So Nice to know that you are a star wars but are you also likely to be a fan of Expanded Universe or Star Trek franchise - **is there a correlation between fanbase of Star wars, Star Trek and EU?**  
+Have you ever wondered which is the **best Star Wars movie?** 
+
+So nice to know that you are a star wars but are you also likely to be a fan of Expanded Universe or Star Trek franchise - **is there a correlation between fanbase of Star wars, Star Trek and EU?**  
 
 In this project we will try to answer above questions using the data from survey conducted by FiveThirtyEight's which is available in [GitHub Repository](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey).
 
